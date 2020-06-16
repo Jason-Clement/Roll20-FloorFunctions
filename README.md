@@ -8,7 +8,7 @@ This lets you overlay the floors on top of one another and then switch using cha
 
 There are, of course, downsides to using this method. Specifically:
 
-- You need all players to switch floors simultaneously, which is almost always the case. Allowing players to move between pages individually can be a little frustraing using the built-in tools, anyway. I try to encourage the players to stick together without directly telling them to.
+- You need all players to switch floors simultaneously, which is almost always the case. Allowing players to move between pages individually can be a little frustrating using the built-in tools, anyway. I try to encourage the players to stick together without directly telling them to.
 - It can potentially mess up advanced fog of war and revealed areas.
 - Roll20 is rather slow by default and adding this much stuff to a single page can be resource-intensive.
 
